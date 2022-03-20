@@ -1,0 +1,9 @@
+{
+    "name": "team-builder",
+    "lockfileVersion": 2,
+    "requires": true,
+    "packages": {},
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
+}
